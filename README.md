@@ -2,6 +2,8 @@
 
 Production Planning and Control leader with 8+ years in Tier 1 automotive supply chain and manufacturing planning (INOAC Polytec, Oatey México). I use data to balance demand, capacity and material availability — S&OP, MRP and inventory optimization — and I'm building my data analytics portfolio with SQL, Python and Power BI (TripleTen Data Analytics, in progress).
 
+What motivates me is simple: I enjoy making things flow. Behind every plan there are people on the line who need the right material at the right time — and I love being the one who makes that happen without chaos. Data became my favorite tool for that: it helps me see the full picture, take better decisions, and give my teams calmer, clearer days.
+
 ## Featured projects
 
 - **Sprint 3 — Financial KPIs with SQL:** margin and ROI by country (United States, Australia, United Kingdom, Germany, France, Canada). [tripleten-sprint3-kpis](https://github.com/vladamaya/tripleten-sprint3-kpis)
