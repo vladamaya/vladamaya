@@ -6,9 +6,9 @@ What motivates me is simple: I enjoy making things flow. Behind every plan there
 
 ## Featured projects
 
-- **Sprint 3 — Financial KPIs with SQL:** margin and ROI by country (United States, Australia, United Kingdom, Germany, France, Canada). [tripleten-sprint3-kpis](https://github.com/vladamaya/tripleten-sprint3-kpis)
-- **Sprint 4 — MercadoLibre funnel and retention with SQL:** purchase funnel by country and retention by country/cohort. [tripleten-sprint4-mercadolibre](https://github.com/vladamaya/tripleten-sprint4-mercadolibre)
-- **Sprint 5 — Urban mobility and economic productivity in LATAM cities with Python:** data cleaning and joining of traffic and economy datasets. [tripleten-sprint5-movilidad-latam](https://github.com/vladamaya/tripleten-sprint5-movilidad-latam)
+- **Sprint 3 — Financial KPIs with SQL:** margin and ROI by country (United States, Australia, United Kingdom, Germany, France, Canada). [financial-kpis-by-country](https://github.com/vladamaya/financial-kpis-by-country)
+- **Sprint 4 — MercadoLibre funnel and retention with SQL:** purchase funnel by country and retention by country/cohort. [funnel-and-retention-analysis](https://github.com/vladamaya/funnel-and-retention-analysis)
+- **Sprint 5 — Urban mobility and economic productivity in LATAM cities with Python:** data cleaning and joining of traffic and economy datasets. [latam-mobility-economy-python](https://github.com/vladamaya/latam-mobility-economy-python)
 
 ## Tools
 
